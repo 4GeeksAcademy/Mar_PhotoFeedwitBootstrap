@@ -1,0 +1,13 @@
+span {
+  color: gainsboro;
+  justify-content: left;
+}
+
+.indexAndGrid {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: auto;
+}
